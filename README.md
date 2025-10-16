@@ -29,7 +29,7 @@ This project is a responsive and modern website for booking and showcasing event
 
 - Google Fonts
 
-  ![image alt](Screenshot 2025-10-16 123659.png)
+ 
 
 
 
