@@ -17,24 +17,17 @@ This project is a responsive and modern website for booking and showcasing event
 
 ---
 
-## 📂 Project Structure
-├── index.html # Main HTML file
-├── style.css # CSS styling
-└── images/ # Images used in the project
-├── Group 33136.png
-├── Ellipse 107.png
-├── Ellipse 106.png
-└── unsplash_NSVJAAXOYHs.png
-
 ## 🛠️ Technologies Used
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-Bootstrap 5
+- Bootstrap 5
 
-Font Awesome Icons
+- Font Awesome Icons
 
-Google Fonts
+- Google Fonts
+  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/9cf7b1cd-be43-4f85-b7d2-4c0fa4333922" />)
+
 
