@@ -29,6 +29,8 @@ This project is a responsive and modern website for booking and showcasing event
 
 - Google Fonts
 
+  ## Hero Section
+  ![image alt](https://github.com/sagor233/Assienment2/blob/35ec7ff9ba27aed4517fc8174d5306e5af53b115/Screenshot%202025-10-16%20123659.png)
  
 
 
