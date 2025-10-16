@@ -28,6 +28,6 @@ This project is a responsive and modern website for booking and showcasing event
 - Font Awesome Icons
 
 - Google Fonts
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/9cf7b1cd-be43-4f85-b7d2-4c0fa4333922" />)
+
 
 
